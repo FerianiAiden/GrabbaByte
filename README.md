@@ -13,10 +13,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Grabba Byte!</h3>
 
   <p align="center">
-    An online Cafe Web Appliation
+    An online Restaurant Web Appliation
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>A Brief Overview »</strong></a>
     <br />
@@ -94,12 +94,14 @@ This is an example of how to list things you need to use the software and how to
 
 
 <!-- ROADMAP -->
-## Roadmap
+## Roadmap for redesigning GrabbaByte
 
 - [x] Establish relational DB
-- [x] Implement Angular UI
-- [ ] Creating CRUD Web APIs:
-    - [ ] TBD...
+- [x] Implement Angular UI (Replacing original frontend design)
+- [x] Creating CRUD Web APIs (Replacing Webform Backend Procedures):
+    - [x] User Registration/Authorization
+    - [x] Modifying Menu
+    - [ ] Making food order
 
 
 
