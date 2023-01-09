@@ -24,7 +24,7 @@ export class FoodService {
   getAllTags():Tag[]{
     return sample_tags
   }
-
+  // If we're going to search the menu by tags, we either display the whole menu when selecting "All", or filter the menu based on the desired tag
   getAllFoodsByTag(tag: string): Food[] {
     return tag === "All" ?
       this.getAll() :
