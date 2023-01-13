@@ -94,7 +94,7 @@ This is an example of how to list things you need to use the software and how to
 
 
 <!-- ROADMAP -->
-## Roadmap for redesigning GrabbaByte
+## Roadmap for redesigning GrabbaByte 
 
 - [x] Establish relational DB
 - [x] Implement Angular UI (Replacing original frontend design)
@@ -113,7 +113,7 @@ This is an example of how to list things you need to use the software and how to
 <!-- CONTACT -->
 ## Contact
 
-Your Name -  ferianiaiden4@gmail.com
+Your Name -  ferianiaiden@gmail.com
 
 Project Link: [https://github.com/FerianiAiden/GrabbaByte.v2](https://github.com/FerianiAiden/GrabbaByte.v2)
 
