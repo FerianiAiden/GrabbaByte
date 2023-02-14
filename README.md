@@ -56,7 +56,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]]
+![Product Name Screen Shot][product-screenshot]
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -100,9 +100,9 @@
 <!-- CONTACT -->
 ## Contact
 
-Your Name -  ferianiaiden@gmail.com
+Email Me! -  ferianiaiden@gmail.com
 
-Project Link: [https://github.com/FerianiAiden/GrabbaByte.v2](https://github.com/FerianiAiden/GrabbaByte.v2)
+Project Link: [https://github.com/FerianiAiden/GrabbaByte](https://github.com/FerianiAiden/GrabbaByte)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
