@@ -18,7 +18,7 @@
   <p align="center">
     An online Restaurant Web Appliation
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>A Brief Overview »</strong></a>
+    <a href="https://docs.google.com/document/d/1clLHCWq6M3rY5rPGy22hS9bRtGW8F61vguYYaRu5d5E/edit?usp=sharing"><strong>A Brief Overview »</strong></a>
     <br />
     <br />
     
@@ -74,19 +74,6 @@
 
 
 
-<!-- GETTING STARTED -->
-## Getting Started
-
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -100,8 +87,8 @@ This is an example of how to list things you need to use the software and how to
 - [x] Implement Angular UI (Replacing original frontend design)
 - [x] Creating CRUD Web APIs (Replacing Webform Backend Procedures):
     - [x] User Registration/Authorization
-    - [x] Modifying Menu
-    - [ ] Making food order
+    - [x] CRUD for modifying Menu (Admin only)
+    - [x] CRUD for making order (User)
 
 
 
